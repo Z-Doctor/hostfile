@@ -3,3 +3,4 @@
 
 127.0.0.1  googletagmanager.com
 127.0.0.1  static.cloudflareinsights.com
+127.0.0.1  cloudflareinsights.com
